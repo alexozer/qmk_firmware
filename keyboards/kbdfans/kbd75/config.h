@@ -46,3 +46,5 @@
 /* If defined, the RGB lighting will be switched off when the host goes to sleep */
 #define RGBLIGHT_SLEEP
 #endif
+
+#define USB_POLLING_INTERVAL_MS 1
